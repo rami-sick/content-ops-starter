@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlock th
+      text: Unlock
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
