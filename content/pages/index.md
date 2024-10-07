@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlock
+      text: Unlock your company future with us!
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
