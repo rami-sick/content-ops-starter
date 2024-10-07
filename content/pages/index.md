@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: VISA OR MASTERCARD
+        title: VIRTUAL MASTER CARD
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
