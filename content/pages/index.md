@@ -102,6 +102,9 @@ sections:
           altText: video edit
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderStyle: dashed
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
