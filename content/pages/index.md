@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Don't hide in the dark let us make you shine
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **We matter to our hands to ensure our clients satisfaction, wither
+      graphics design or visual design, video edit we get it done in time.**
     actions:
       - label: Get started
         altText: ''
