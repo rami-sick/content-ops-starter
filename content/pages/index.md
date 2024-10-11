@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Don't hide in the dark let us make you shine
     text: >
-      **We matter to our hands to ensure our clients satisfaction, wither
+      **We take matter to our hands to ensure our clients satisfaction, wither
       graphics design or visual design, video edit we get it done in time.**
     actions:
       - label: Get started
