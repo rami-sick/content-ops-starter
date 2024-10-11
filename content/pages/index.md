@@ -85,7 +85,8 @@ sections:
           type: ImageBlock
           altText: 'graphics '
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            /images/graphic-design-icon-isolated-on-black-graphic-design-symbol-suitable-for-graphic-designers-and-websites-on-a-white-background-free-vector.jpg
           styles:
             self:
               borderRadius: x-large
