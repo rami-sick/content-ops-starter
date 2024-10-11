@@ -123,7 +123,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/Digital-marketing-icon-11-Graphics-11845982-1-1-580x386.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
