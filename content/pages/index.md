@@ -99,7 +99,7 @@ sections:
         image:
           url: >-
             /images/video-editing-icon-with-glyph-style-and-black-color-on-isolated-background-vector.jpg
-          altText: Featured icon two
+          altText: video edit
           elementId: ''
           type: ImageBlock
         actions: []
