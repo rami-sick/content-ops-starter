@@ -20,7 +20,7 @@ sections:
           - graphics design
           - 3 video edits
           - 8 video shoot - for content
-          - Feature four
+          - Build 1 marketing strategies
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
