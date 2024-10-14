@@ -18,7 +18,7 @@ sections:
           with this package, ghost advertisements will provide 
         features:
           - graphics design
-          - Feature two
+          - 3 video edits
           - Feature three
           - Feature four
         image:
