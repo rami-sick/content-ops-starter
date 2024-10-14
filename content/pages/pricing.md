@@ -49,7 +49,7 @@ sections:
           with this package, ghost advertisements will provide
         features:
           - unlimited Graphics Design
-          - Feature two
+          - 6 Video Edits
           - Feature three
           - Feature four
         image:
