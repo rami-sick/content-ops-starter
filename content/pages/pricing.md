@@ -50,7 +50,7 @@ sections:
         features:
           - unlimited Graphics Design
           - 6 Video Edits
-          - Feature three
+          - 12 Video Shoot - for content
           - Feature four
         image:
           url: /images/abstract-feature2.svg
