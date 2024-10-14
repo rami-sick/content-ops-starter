@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: '12,000 Birr'
-        details: per month
+        details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
