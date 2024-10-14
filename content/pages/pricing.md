@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: '12,000 Birr'
+        price: '12,800 Birr'
         details: Per Month
         description: |
           with this package, ghost advertisements will provide
