@@ -14,9 +14,8 @@ sections:
       - title: Normal
         price: '8,500 Birr'
         details: Per Month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          with this package, ghost advertisements will provide 
         features:
           - Feature one
           - Feature two
