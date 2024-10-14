@@ -19,7 +19,7 @@ sections:
         features:
           - graphics design
           - 3 video edits
-          - 8 video shoot
+          - 8 video shoot - for content
           - Feature four
         image:
           url: /images/abstract-feature1.svg
