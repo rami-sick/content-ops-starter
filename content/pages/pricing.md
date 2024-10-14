@@ -51,7 +51,7 @@ sections:
           - unlimited Graphics Design
           - 6 Video Edits
           - 12 Video Shoot - for content
-          - Build 4 Marketing Stragies
+          - Build 4 Marketing Strategies
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
