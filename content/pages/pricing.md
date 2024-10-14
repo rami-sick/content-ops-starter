@@ -48,7 +48,7 @@ sections:
         description: |
           with this package, ghost advertisements will provide
         features:
-          - Feature one
+          - unlimited Graphics Design
           - Feature two
           - Feature three
           - Feature four
