@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'please choose, from our price list'
     plans:
-      - title: Developers
+      - title: Normal
         price: Free
         details: No credit card required
         description: >-
