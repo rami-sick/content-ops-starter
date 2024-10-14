@@ -12,7 +12,7 @@ sections:
     subtitle: 'please choose, from our price list'
     plans:
       - title: Normal
-        price: Free
+        price: '8,500 Birr'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
