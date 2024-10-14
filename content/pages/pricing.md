@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Normal
         price: '8,500 Birr'
-        details: No credit card required
+        details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
